@@ -6,7 +6,7 @@ Mirror of prettier package for pre-commit.
 For pre-commit: see https://github.com/pre-commit/pre-commit
 
 For prettier: see https://github.com/prettier/prettier
-
+tertet
 
 ### Using prettier with pre-commit
 
